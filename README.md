@@ -8,4 +8,5 @@ Teste de conhecimento em Python, Docker, FastAPI
 
 Links E doc da API 
 http://127.0.0.1/docs#/
+
 http://127.0.0.1/redoc
