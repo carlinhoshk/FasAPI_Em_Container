@@ -6,7 +6,7 @@ Teste de conhecimento em Python, Docker, FastAPI
  Projeto de uma FastAPI em um Container Docker.
  
 
-Para rodar o Projeto Clone o projeto, abra o Directorio do Projeto e dê o Comandos:
+Para rodar o Projeto Clone o projeto, abra o Directorio do Projeto e dê o Comando:
 
 ![image](https://user-images.githubusercontent.com/40872405/153741559-758fc86b-a8c3-4f62-b8b1-8de0fe7e013a.png)
 
